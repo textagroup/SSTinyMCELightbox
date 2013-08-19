@@ -1,0 +1,4 @@
+en:
+  AlignmentStyle:
+    LIGHTBOXLEFT: 'Lightbox on the left, with text wrapping around'
+    LIGHTBOXRIGHT: 'Lightbox on the right, with text wrapping around'
