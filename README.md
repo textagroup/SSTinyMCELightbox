@@ -1,7 +1,7 @@
-To setup add the following line to mysite_config.php
+To setup add the required lightbox class to mysite_config.php
 
 `// Add a style to TinyMCE`
-`Object::add_extension('HtmlEditorField_Toolbar', 'AddImageStyle');`
+`Object::add_extension('HtmlEditorField_Toolbar', 'AddImageStyleLightwindow');`
 
 This just estends HtmlEditorField_Toolbar so that more styles are added to the TinyMCE alignemt dropdown
 
