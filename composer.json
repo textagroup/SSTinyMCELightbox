@@ -1,0 +1,17 @@
+{
+	"name": "textagroup/SSTinyMCELightbox",
+	"description": "Adds image lightbox functionality to SilverStripe",
+	"type": "silverstripe-module",
+	"keywords": ["silverstripe", "TinyMCE", "Lightbox"],
+	"authors": [
+		{
+			"name": "Kirk Mayo",
+			"email": "kirk@silverstripe.com"
+		}
+	],
+	"require":
+	{
+		"silverstripe/framework": "3.1.*",
+		"silverstripe/cms": "3.1.*"
+	}
+}
